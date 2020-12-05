@@ -16,6 +16,6 @@ function getFullName(user: User): string {
   return [first, middle, last].filter(Boolean).join(' ')
 }
 
-add(1, '2')
+add(1, 2)
 
 getFullName({name: {first: 'Joe', middle: 'Bud', last: 'Matthews'}})
