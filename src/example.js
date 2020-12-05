@@ -1,3 +1,5 @@
+'use strict'
+
 const name = 'Freddy'
 typeof name === 'strng'
 
